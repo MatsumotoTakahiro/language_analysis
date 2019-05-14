@@ -17,6 +17,8 @@ urllib3 = "*"
 certifi = "*"
 bs4 = "*"
 pycodestyle = "*"
+mecab-python3 = "*"
+pyknp = "*"
 
 [requires]
 python_version = "3.7"
